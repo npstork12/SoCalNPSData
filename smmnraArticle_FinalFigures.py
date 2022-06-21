@@ -25,6 +25,9 @@ import rasterio
 import heapq
 from operator import itemgetter
 
+
+### CHANGED BRANCH ####
+
 ##### DATA COLLECTION AND CLASSES #####
 class CollectionPoint(object):
     def __init__(self, line):
