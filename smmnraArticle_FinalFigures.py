@@ -17,8 +17,6 @@ from splot.esda import lisa_cluster
 from matplotlib import colors
 import matplotlib.pyplot as plt
 
-### test
-
 # from mpl_toolkits.basemap import Basemap
 
 ### Figure 4
