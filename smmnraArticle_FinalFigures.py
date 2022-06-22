@@ -16,8 +16,8 @@ from esda.moran import Moran, Moran_BV, Moran_Local, Moran_Local_BV
 from splot.esda import lisa_cluster
 from matplotlib import colors
 import matplotlib.pyplot as plt
-import gdal
-import rasterio
+
+### test
 
 # from mpl_toolkits.basemap import Basemap
 
